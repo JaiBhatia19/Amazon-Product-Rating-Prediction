@@ -1,5 +1,7 @@
 # Amazon Product Rating Prediction
 
+![NINTCHDBPICT000636804302](https://github.com/JaiBhatia19/London-Bike-Rides-Dashboard/assets/143343337/e7f5f805-f1dc-4a9d-aab3-964f9365f67c)
+
 ## Project Overview
 Using natural language processing (NLP) and machine learning to predict Amazon product ratings from customer reviews. This project leverages the Amazon musical products review data.
 
